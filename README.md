@@ -45,7 +45,7 @@ This project is a web-based rule engine that allows users to:
 
 ```bash
 git clone https://github.com/MITHUN-MENON-M/Rule-Engine-with-AST-Visualization.git
-cd your-repo-name
+cd Rule-Engine-with-AST-Visualization
 ```
 
 ### Create a Virtual Environment (Optional)
@@ -184,7 +184,7 @@ Contributions are welcome! Please submit a pull request or open an issue.
 
    ```bash
    git clone https://github.com/MITHUN-MENON-M/Rule-Engine-with-AST-Visualization.git
-   cd your-repo-name
+   Rule-Engine-with-AST-Visualization
    ```
 
 2. **Create and Activate a Virtual Environment**:
@@ -216,7 +216,7 @@ Contributions are welcome! Please submit a pull request or open an issue.
 
    ```bash
    git clone https://github.com/MITHUN-MENON-M/Rule-Engine-with-AST-Visualization.git
-   cd your-repo-name
+   cd Rule-Engine-with-AST-Visualization
    ```
 
 2. **Create and Activate a Virtual Environment**:
