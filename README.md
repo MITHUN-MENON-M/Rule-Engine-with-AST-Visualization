@@ -35,4 +35,7 @@ Prerequisites:
 - Virtual Environment (optional but recommended)
 - Git (to clone the repository)
 
-
+**Clone the Repository**
+`git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+`
