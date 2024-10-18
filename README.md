@@ -234,25 +234,3 @@ pip freeze > requirements.txt
    Open your web browser and navigate to `http://127.0.0.1:5000/`.
 
 ---
-
-## Adding the README to GitHub
-
-1. **Create a `README.md` File**:
-
-   - In your project root directory, create a file named `README.md`.
-   - Copy and paste the content provided here into this file.
-
-2. **Add Screenshots**:
-
-   - Place any screenshots or images in the `static/images/` directory.
-   - Update the image paths in the `README.md` accordingly.
-
-3. **Commit and Push to GitHub**:
-
-   ```bash
-   git add README.md static/images/screenshot.png
-   git commit -m "Add README and screenshot"
-   git push origin main
-   ```
-
----
