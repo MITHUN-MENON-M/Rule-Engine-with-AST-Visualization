@@ -4,7 +4,6 @@ Sure! Below is the complete `README.md` content formatted properly for GitHub. Y
 
 # Rule Engine with AST Visualization
 
-![Rule Engine UI](static/images/screenshot.png)
 
 This project is a web-based rule engine that allows users to:
 
