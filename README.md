@@ -28,8 +28,7 @@ This project is a web-based rule engine that allows users to:
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -165,13 +164,6 @@ pip freeze > requirements.txt
 
 - **Database Errors**: If you encounter database errors, delete the `rules.db` file and restart the application to recreate the database.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue.
-
-## License
-
-[MIT License](LICENSE)
 
 ---
 
