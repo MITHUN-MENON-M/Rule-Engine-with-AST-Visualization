@@ -44,7 +44,7 @@ This project is a web-based rule engine that allows users to:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/MITHUN-MENON-M/Rule-Engine-with-AST-Visualization.git)
 cd your-repo-name
 ```
 
